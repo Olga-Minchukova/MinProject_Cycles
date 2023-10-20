@@ -1,7 +1,5 @@
 package ru.netology.services;
 
-package ru.netology.services;
-
 public class FreelanceService {
     public int calcMonth(int income, int expenses, int threshold) {
         int money = 0;
