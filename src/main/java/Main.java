@@ -1,4 +1,4 @@
-import ru.netology.services.FreelanceChillService;
+import ru.netology.services.FreelanceService;
 
 public class Main {
     public static void main(String[] args) {
